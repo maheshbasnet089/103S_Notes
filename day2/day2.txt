@@ -1,0 +1,5 @@
+Todo : 
+1.Why React ? 
+2.Virtual DOM 
+3.Diffing 
+4.Reconciliation
