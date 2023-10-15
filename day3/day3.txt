@@ -1,0 +1,23 @@
+ToDO : 
+React project installation (CRA,Vite)
+Component,props,routing(v5,v6.12) ==> react-router-dom
+Github tour 
+
+options 
+CRA(create react app) npx create-react-app folderName - babel
+Vite - ES modules
+
+http://localhost:5173/
+http://127.0.0.1:5173/
+http://[::1]:5173
+
+
+React.createElement(tagName,content,children)
+
+CSS 
+
+inline 
+internal 
+external
+
+
