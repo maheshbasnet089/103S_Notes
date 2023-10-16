@@ -1,0 +1,15 @@
+TODO : 
+Components,Props
+
+Hooks,useState
+
+props =  { textInsideButton: 'About' }
+props.textInsideButton
+
+{textInsideButton}
+
+
+useState => 
+const state = [initialValue,function(setter)]
+
+
