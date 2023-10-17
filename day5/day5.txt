@@ -1,0 +1,27 @@
+TODO : 
+useState - types of hook data store
+
+useEffect 
+3 Types 
+Type1 = useEffect(()=>{},[])
+
+Type2 = useEffect(()=>{},[state1,state2])
+
+Type3 = useEffect(()=>{})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const [like,setLike] = useState(9)
+setLike(like+1)
