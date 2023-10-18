@@ -1,0 +1,45 @@
+TODO : 
+0.Project brief (product management system)(CRUD)
+C- create
+R - read
+U - update
+D  - delete
+
+1.Project Setup  + UI banam - DONE
+
+UI banauney  + API integration
+
+JSON - JAVASCRIPT OBJECT NOTATION 
+data store,transport 
+
+XML,yaml,ini
+
+const array = [
+{
+"name" : "Manish",
+"profession : "Student",
+age : 21
+
+}
+]
+user  = {"name":"Manish"}
+<user>
+<name>Manish</name>
+</user>
+
+user 
+   name
+	Manish
+
+
+C 
+array[] = {}
+
+
+
+
+
+
+
+
+
